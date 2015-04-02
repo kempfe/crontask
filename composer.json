@@ -1,0 +1,17 @@
+{
+    "name": "kempfe/crontask",
+    "description": "Cron Manager for ZF2 based on Doctrine2",
+    "require": {
+        "zendframework/zendframework": "~2.4",
+        "doctrine/doctrine-orm-module": "0.7.*",
+        "mtdowling/cron-expression": "~1.0"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Kempf Mario",
+            "email": "kempf@logmedia.at"
+        }
+    ],
+    "minimum-stability": "stable"
+}
